@@ -1,0 +1,53 @@
+.project_main_container {
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    min-height: 600px;
+}
+.project_container {
+    display: flex;
+    
+    flex-direction: column;
+    background-image:linear-gradient(to bottom, #f1f1f1 0%, #f8f8f8 100%);
+    color: #000000;
+    box-shadow: 1px 1px 4px #bbbbbb;
+    border-radius: 15px;
+    margin: 20px 15px 10px 15px;
+    padding: 20px;
+    height: fit-content;
+}
+.project_image {
+    flex: 1;
+    width:100%;
+    padding-bottom:100%;
+    overflow: hidden;
+    margin: auto;
+    position:relative;
+    border:5px solid #ffffff;
+    border-radius: 50%;
+}
+.image_1 {
+    background-image:url(../Images/shark.png);
+    background-size: cover;
+    background-position: center;
+}
+.image_2 {
+    background-image:url(../Images/eco.png);
+    background-size: cover;
+    background-position: center;
+}
+.image_3 {
+    background-image:url(../Images/mountains.png);
+    background-size: cover;
+    background-position: center;
+}
+
+@media screen and (max-width:550px){
+    .project_main_container {
+        flex-direction: column;
+    }
+    .project_container {
+        margin: 10px 20px 10px 20px;
+    }
+}
+
