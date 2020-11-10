@@ -16,6 +16,15 @@
     padding: 20px;
     align-items: stretch;
 }
+.project_container p{
+    text-align: justify;
+}
+.project_container button{
+    width: 100px;
+    height: 30px;
+    margin: 0 10px 0 10px;
+
+}
 .project_image {
     flex: 1;
     width:200px;

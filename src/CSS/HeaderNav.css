@@ -7,7 +7,7 @@
   }
 
 
-header a {
+header a, .header_title {
     text-decoration: none;
     color:#ffffff;
 }

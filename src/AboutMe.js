@@ -5,7 +5,7 @@ import './CSS/AboutMe.css'
 export default function AboutMe() {
     return (  
         <section className="aboutme_section">
-            <h2>About Me</h2>
+            <h2 id="about">About Me</h2>
             <div className="aboutme_content_container">
             <div className="aboutme_image_container">
                 <img className="aboutme_image" src={jackiebishop13} alt="JackieBishop"></img>

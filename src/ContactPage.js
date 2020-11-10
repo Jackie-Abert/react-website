@@ -4,10 +4,10 @@ import Form from './Form';
 
 export default class ContactPage extends Component{
     render(){
-        return(
+        return( 
             <div className="contact_form_container">
                 <div className="contact_text">
-                    <h2>Contact</h2>
+                    <h2 id="contact">Contact</h2>
                     <p>If you like what you see and are interested in hiring me for your next project, send me an email and let's schedule some time to talk. 
                     </p>
                     <ul>Be sure to check me out on:
