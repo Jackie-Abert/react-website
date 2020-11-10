@@ -1,8 +1,16 @@
 .aboutme_section {
     background: #f5f5f5;
     min-height: 600px;
+    display: flex;
+    flex-direction: column;
 }
-
+.aboutme_section h2{
+    text-align: center;
+}
+.aboutme_content_container{
+    display: flex;
+    flex-direction: column;
+}
 .aboutme_image {
     width: 200px;
     height: 200px;
@@ -32,6 +40,9 @@
     .aboutme_text {
         flex: 1;
         margin:auto;
-        max-width: 250px;
+        max-width: 400px;
+    }
+    .aboutme_content_container{
+        flex-direction: row;
     }
 }

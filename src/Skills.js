@@ -5,7 +5,7 @@ export default class Skills extends Component{
     render(){
         return(
             <div className="skills_container">
-                <div class="loading">
+                <div className="loading">
                     <h2 className="animation_text">Currently Loading Skills</h2>
                     <span></span>
                     <span></span>
