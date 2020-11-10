@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3364691c.chunk.css",
+    "main.js": "/static/js/main.b21edb8d.chunk.js",
+    "main.js.map": "/static/js/main.b21edb8d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39870823.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39870823.js.map",
+    "static/js/2.bbde0dc8.chunk.js": "/static/js/2.bbde0dc8.chunk.js",
+    "static/js/2.bbde0dc8.chunk.js.map": "/static/js/2.bbde0dc8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c29f2448ad5a857932ca2e886b66efe4.js": "/precache-manifest.c29f2448ad5a857932ca2e886b66efe4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3364691c.chunk.css.map": "/static/css/main.3364691c.chunk.css.map",
+    "static/js/2.bbde0dc8.chunk.js.LICENSE.txt": "/static/js/2.bbde0dc8.chunk.js.LICENSE.txt",
+    "static/media/battleship.png": "/static/media/battleship.b3cca7ce.png",
+    "static/media/fish.png": "/static/media/fish.db724a3c.png",
+    "static/media/jackieBishop13.jpg": "/static/media/jackieBishop13.eecc278b.jpg",
+    "static/media/rocketboy.jpg": "/static/media/rocketboy.3a8ec19e.jpg",
+    "static/media/HomePage.css": "/static/media/technology.3312b9a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39870823.js",
+    "static/js/2.bbde0dc8.chunk.js",
+    "static/css/main.3364691c.chunk.css",
+    "static/js/main.b21edb8d.chunk.js"
+  ]
+}
