@@ -30,7 +30,8 @@ export default class Skills extends Component{
 
             
                 <div className="loading">
-                    <h2 className="animation_text">Currently Loading More Skills</h2>
+                    <h2 className="animation_text">“Anyone who stops learning is old, whether at twenty or eighty.”
+— Henry Ford</h2><h2 className="animation_text_p">Currently downloading new skill sets</h2>
                     <span></span>
                     <span></span>
                     <span></span>
