@@ -1,27 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.fad07958.chunk.css",
-    "main.js": "/static/js/main.9d566cfe.chunk.js",
-    "main.js.map": "/static/js/main.9d566cfe.chunk.js.map",
+    "main.css": "/static/css/main.b98fbd1d.chunk.css",
+    "main.js": "/static/js/main.93159982.chunk.js",
+    "main.js.map": "/static/js/main.93159982.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.39870823.js",
     "runtime-main.js.map": "/static/js/runtime-main.39870823.js.map",
-    "static/js/2.89d7e2a4.chunk.js": "/static/js/2.89d7e2a4.chunk.js",
-    "static/js/2.89d7e2a4.chunk.js.map": "/static/js/2.89d7e2a4.chunk.js.map",
+    "static/js/2.62473435.chunk.js": "/static/js/2.62473435.chunk.js",
+    "static/js/2.62473435.chunk.js.map": "/static/js/2.62473435.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3232b27942b8b322362a2103a03ab584.js": "/precache-manifest.3232b27942b8b322362a2103a03ab584.js",
+    "precache-manifest.d34648dc3e8360223dd75ac2f0df5a63.js": "/precache-manifest.d34648dc3e8360223dd75ac2f0df5a63.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fad07958.chunk.css.map": "/static/css/main.fad07958.chunk.css.map",
-    "static/js/2.89d7e2a4.chunk.js.LICENSE.txt": "/static/js/2.89d7e2a4.chunk.js.LICENSE.txt",
+    "static/css/main.b98fbd1d.chunk.css.map": "/static/css/main.b98fbd1d.chunk.css.map",
+    "static/js/2.62473435.chunk.js.LICENSE.txt": "/static/js/2.62473435.chunk.js.LICENSE.txt",
+    "static/media/adobe-illustrator-cs6.png": "/static/media/adobe-illustrator-cs6.34a42647.png",
+    "static/media/adobe-photoshop-cs6.png": "/static/media/adobe-photoshop-cs6.3f4a8831.png",
     "static/media/battleship.png": "/static/media/battleship.b3cca7ce.png",
+    "static/media/css3.png": "/static/media/css3.6b354bff.png",
     "static/media/fish.png": "/static/media/fish.db724a3c.png",
+    "static/media/html5.png": "/static/media/html5.fa127d12.png",
     "static/media/jackieBishop13.jpg": "/static/media/jackieBishop13.eecc278b.jpg",
+    "static/media/javascript.png": "/static/media/javascript.f9c0a8c0.png",
+    "static/media/nodejs-1.png": "/static/media/nodejs-1.78b98ebc.png",
+    "static/media/nodejs-icon.png": "/static/media/nodejs-icon.eaf826db.png",
+    "static/media/postgresql.png": "/static/media/postgresql.91c571cd.png",
+    "static/media/react.png": "/static/media/react.42619f38.png",
     "static/media/rocketboy.jpg": "/static/media/rocketboy.3a8ec19e.jpg",
     "static/media/HomePage.css": "/static/media/technology.3312b9a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39870823.js",
-    "static/js/2.89d7e2a4.chunk.js",
-    "static/css/main.fad07958.chunk.css",
-    "static/js/main.9d566cfe.chunk.js"
+    "static/js/2.62473435.chunk.js",
+    "static/css/main.b98fbd1d.chunk.css",
+    "static/js/main.93159982.chunk.js"
   ]
 }
