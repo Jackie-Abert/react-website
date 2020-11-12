@@ -8,6 +8,7 @@ export default class NavBar extends Component{
         return(
             <nav className="header_nav">
                 <div className="nav_open">
+                    <div className="nav_links"><a href="#skills">Skills</a></div>
                     <div className="nav_links"><a href="#projects">Projects</a></div>
                     <div className="nav_links"><a href="#about">About</a></div>
                     <div className="nav_links"><a href="#contact">Contact</a></div>

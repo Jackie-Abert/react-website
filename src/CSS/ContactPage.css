@@ -1,7 +1,6 @@
 .contact_form_container {
-  background: #f5f5f5;
   margin: auto;
-  min-height: 600px;
+  min-height: 100vh;
 }
 .contact_text {
   margin: 30px;
@@ -58,6 +57,9 @@
 a {
   text-decoration: none;
   color: #000000;
+}
+li{
+  list-style: none;
 }
 
 @media all and (min-width: 550px) {

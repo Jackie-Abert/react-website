@@ -2,9 +2,18 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    min-height: 600px;
+    min-height: 100vh;
 }
-
+.skills_container legend{
+  font-size: 30px;
+  letter-spacing: 3px;
+  padding: 20px;
+}
+.skills_container fieldset{
+  margin: 20px;
+  padding: 10px 20px 10px 20px;
+  border: 1px solid #c4c4c4;
+}
 .skills_image{
   height: 75px;
   width: 75px;
@@ -12,7 +21,6 @@
 .learned_skills{
   margin: 0;
   padding: 0;
-  /* margin: auto; */
   justify-content: center;
   list-style-type: none;
   columns: 2;
@@ -25,9 +33,8 @@
 .learned_skills li{
   display: flex;
   width: 250px;
-  padding: 10px;
-  margin: 0 20px 0 20px;
-  
+  padding: 10px 20px;
+  margin: 0 20px;
 }
 .learned_skills li div{
   margin: auto;
@@ -35,7 +42,7 @@
   font-weight: 800;
 }
 .loading {
-    margin: auto;
+    margin: 0px;
 }
 .animation_text{
   font-size: 16px;
@@ -90,6 +97,14 @@
     .learned_skills{
       display: flex;
       flex-direction: column;
+      margin: auto;
+      text-align: center;
+      
+    }
+    .skills_container fieldset{
+      margin: 20px;
+    }
+    .learned_skills li{
       margin: auto;
     }
   }

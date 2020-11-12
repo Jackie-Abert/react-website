@@ -5,7 +5,7 @@
     width: inherit;
     flex-direction: column;
     margin: auto;
-    min-height: 600px;
+    height: 100vh;
 }
 
 .homepage_container{

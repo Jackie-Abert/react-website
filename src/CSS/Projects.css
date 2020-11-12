@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   margin: auto;
-  min-height: 600px;
+  min-height: 100vh;
 }
 .center {
   text-align: center;
@@ -19,7 +19,7 @@
   border-radius: 15px;
   margin: 20px 15px 10px 15px;
   padding: 20px;
-  align-items: stretch;
+  height: 670px;
 }
 .project_container p {
   text-align: justify;

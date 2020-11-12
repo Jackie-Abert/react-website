@@ -15,8 +15,8 @@ export default function App() {
       <Header />
       <HomePage />
       <Skills />
-      <AboutMe />
       <Projects />
+      <AboutMe />
       <ContactPage />
 
         {/* <Route path='/home' component={HomePage} />
