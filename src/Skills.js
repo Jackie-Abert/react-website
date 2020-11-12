@@ -16,7 +16,7 @@ export default class Skills extends Component{
         <>
             <div className="skills_container">
                 <fieldset>
-                    <legend>Skills</legend>
+                    <legend id="skills">Skills</legend>
                     <div>
                     <ul className="learned_skills">
                         <li><img className="skills_image" src={javascript} alt="javascript" /><div>Javascript</div></li>
