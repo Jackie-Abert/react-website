@@ -1,16 +1,20 @@
 .skills_container {
     display: flex;
     flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
     margin: auto;
     min-height: 100vh;
 }
 .skills_container legend{
   font-size: 30px;
+  font-weight: 700;
   letter-spacing: 3px;
-  padding: 20px;
+  padding: 0 10px 0 px;
+
 }
 .skills_container fieldset{
-  margin: 20px;
   padding: 10px 20px 10px 20px;
   border: 1px solid #c4c4c4;
 }
@@ -102,7 +106,7 @@
       
     }
     .skills_container fieldset{
-      margin: 20px;
+      margin: 50px 20px 20px 20px;
     }
     .learned_skills li{
       margin: auto;

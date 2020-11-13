@@ -20,10 +20,10 @@ h3 {
 /* font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif; */
 
-h1, h2, h3 {
+h1, h2, h3, legend {
   font-family: 'Poppins', sans-serif;
 }
-p, form, li, button, a{
+p, form, li, button, a, input, textarea{
   font-family: 'Roboto', sans-serif;
 }
 

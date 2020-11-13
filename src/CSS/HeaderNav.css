@@ -4,6 +4,9 @@
     display: flex;
     margin: auto;
     justify-content: space-between;
+    width:100%;
+    position: fixed;
+    top: 0;
   }
 
 

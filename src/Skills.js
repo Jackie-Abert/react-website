@@ -14,9 +14,9 @@ export default class Skills extends Component{
     render(){
         return(
         <>
-            <div className="skills_container">
+            <div id="skills" className="skills_container">
                 <fieldset>
-                    <legend id="skills">Skills</legend>
+                    <legend>Skills</legend>
                     <div>
                     <ul className="learned_skills">
                         <li><img className="skills_image" src={javascript} alt="javascript" /><div>Javascript</div></li>

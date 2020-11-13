@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 export default function Header(){
     return(
         <header className="header_container">
-            <h1 className="header_title">JB</h1>
+            <a className="header_title" href="home">JB</a>
             <NavBar />
         </header>
     )

@@ -18,15 +18,14 @@
   box-shadow: 1px 1px 4px #bbbbbb;
   border-radius: 15px;
   margin: 20px 15px 10px 15px;
-  padding: 20px;
-  height: 670px;
+  padding: 10px 20px 10px 20px;
+  height: 600px;
 }
 .project_container p {
   text-align: justify;
 }
-.project_main_container h3{
-    color: #000000;
-    font-weight: 500;
+.project_container h2, p, h3, ul{
+  margin: 4px 0 4px 0;
 }
 .project_image {
   flex: 1;
@@ -54,7 +53,7 @@
   border: 1px solid #c2c2c2;
   width: 100px;
   height: 25px;
-  margin: 10px;
+  margin: 0 10px 0 10px;
   padding: 5px;
   border-radius: 4px;
   box-shadow: 1px 1px 2px #dbdbdb;

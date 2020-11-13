@@ -8,8 +8,10 @@ import battleship from "./Images/battleship.png";
 export default class Projects extends Component {
   render() {
     return (
-      <>
-        <h2 id="projects">Projects</h2>
+      <div id="projects">
+        <br/>
+        <br/>
+        <h2 >Projects</h2>
         <h3 className="center">
           Click on a project image to go to the live site
         </h3>
@@ -35,8 +37,7 @@ export default class Projects extends Component {
                 <h2>Blackjack</h2>
               </label>
               <p>
-                This app was built for a two week solo coding challenge.
-                It was built on a modular foundation for future addition of multiplayer, multiple game levels,
+                This app was built on a modular foundation for future addition of multiplayer, multiple game levels,
                 achievements, and ultimately, the final goal of expanding into a
                 full poker suite
               </p>
@@ -186,7 +187,7 @@ export default class Projects extends Component {
             </div>
           </div>
         </div>
-      </>
+      </div>
     );
   }
 }
