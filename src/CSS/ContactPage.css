@@ -23,6 +23,7 @@
     background-image:linear-gradient(to bottom, #0000995d 0%, #33ccff65 100%),url(../Images/backgrounds/contact-background.jpg);
     background-size: cover;
     background-position: center;
+    box-shadow: inset 0px 10px 8px -10px #000000;
 }
 .contact_text {
   font-size: 20px;
