@@ -1,6 +1,6 @@
 
 .header_container {
-    background: #000099;
+    background: #0000bb;
     display: flex;
     margin: auto;
     justify-content: space-between;
@@ -42,8 +42,6 @@ header a, .header_title {
     .contact_link, .nav_hidden{
         display: contents;
     }
-
-    
 }
 
 /* @media screen and (max-width:550px) {
